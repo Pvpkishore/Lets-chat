@@ -1,4 +1,4 @@
-const socket = io('lets-chat-kishorw.vercel.app');
+const socket = io('https://lets-chat-kishorw.vercel.app');
 
 const form = document.getElementById('send-container');
 const messageInput = document.getElementById('messageInp');
