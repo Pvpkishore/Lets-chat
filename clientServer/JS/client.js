@@ -1,4 +1,4 @@
-const socket = io('https://localhost:4000');
+const socket = io('https://localhost:3000');
 
 const form = document.getElementById('send-container');
 const messageInput = document.getElementById('messageInp');
